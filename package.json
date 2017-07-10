@@ -1,7 +1,8 @@
 {
   "name": "create-json-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create JSON via CLI",
+  "main": "./parser.js",
   "author": {
     "name": "Roman Masyhar",
     "email": "mhrohman@live.com"
@@ -13,7 +14,7 @@
     "cli json"
   ],
   "bin": {
-    "create-json": "./index.js"
+    "create-json": "./cli.js"
   },
   "dependencies": {
     "commander": "^2.11.0",
