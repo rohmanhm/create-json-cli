@@ -1,0 +1,22 @@
+{
+  "name": "create-json-cli",
+  "version": "0.0.1",
+  "description": "Create JSON via CLI",
+  "author": {
+    "name": "Roman Masyhar",
+    "email": "mhrohman@live.com"
+  },
+  "keywords": [
+    "json",
+    "generate cli",
+    "create json",
+    "cli json"
+  ],
+  "bin": {
+    "create-json": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.11.0",
+    "if-json": "^1.0.0"
+  }
+}

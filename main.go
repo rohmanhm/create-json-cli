@@ -1,3 +1,8 @@
+/**
+ * This is just WIP example implementation Create-json-cli with Golang
+ * For a while don't use this package
+ */
+
 package main
 
 import (
